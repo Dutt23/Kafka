@@ -1,0 +1,9 @@
+kafka:
+  bootstrap-servers: localhost:9092
+  topic:
+    helloworld: helloworld.t
+    helloworld1: helloworld1.t
+    
+    
+    
+    
